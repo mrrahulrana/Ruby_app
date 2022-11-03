@@ -2,21 +2,21 @@
 
 Running Script
 
-1. Navigate to the app directory
+1. Navigate to the app directory :
 $ cd ~/path/to/ruby_app
 
-2. Run the script by below command
+2. Run the script by below command :
 $ ruby ./lib/parser.rb ./data/webserver.log
 
 Running Test cases
 
-1. Navigate to the app directory
+1. Navigate to the app directory :
 $ cd ~/path/to/ruby_app
 
-2. Install the necessary gems
+2. Install the necessary gems :
 $ bundle install
 
-3. Run specs
+3. Run specs :
 $ rspec
 
 # Notes & Explanations
